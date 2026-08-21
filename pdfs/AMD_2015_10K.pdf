@@ -15,14 +15,14 @@
 <meta property="og:title" content="SEC Filings">
 <meta property="og:type" content="website">
 
-<meta property="og:image" content="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/834/7308/social_image_resized.jpg">
+<meta property="og:image" content="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/834/7308/social_image_resized.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
 
 
 
 <script type="application/ld+json">
-	{"@context":"http:\/\/schema.org","@type":"Corporation","name":"Advanced Micro Devices, Inc.","address":{"@type":"PostalAddress","streetAddress":"2485 Augustine Drive ","addressLocality":"Santa Clara, CA","postalCode":"95054","addressCountry":""},"legalName":"Advanced Micro Devices, Inc.","description":"For 50 years AMD has driven innovation in high-performance computing, graphics and visualization technologies \u2015 the building blocks for gaming, immersive platforms and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how they live, work and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible.","tickerSymbol":": AMD","url":"https:\/\/ir.amd.com","logo":"https:\/\/d1io3yog0oux5.cloudfront.net\/_81de2a840266a9a5d8ef71574b1495ea\/amd\/logo.png","image":"https:\/\/d1io3yog0oux5.cloudfront.net\/_81de2a840266a9a5d8ef71574b1495ea\/amd\/db\/834\/7308\/social_image_resized.jpg","sameAs":[]}</script>
+	{"@context":"http:\/\/schema.org","@type":"Corporation","name":"Advanced Micro Devices, Inc.","address":{"@type":"PostalAddress","streetAddress":"2485 Augustine Drive ","addressLocality":"Santa Clara, CA","postalCode":"95054","addressCountry":""},"legalName":"Advanced Micro Devices, Inc.","description":"For 50 years AMD has driven innovation in high-performance computing, graphics and visualization technologies \u2015 the building blocks for gaming, immersive platforms and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how they live, work and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible.","tickerSymbol":": AMD","url":"https:\/\/ir.amd.com","logo":"https:\/\/d1io3yog0oux5.cloudfront.net\/_56adbd18d135b2f851093f22c2cfc3be\/amd\/logo.png","image":"https:\/\/d1io3yog0oux5.cloudfront.net\/_56adbd18d135b2f851093f22c2cfc3be\/amd\/db\/834\/7308\/social_image_resized.jpg","sameAs":[]}</script>
 
 <!-- Elastic Search -->
  
@@ -32,15 +32,15 @@
                 <link rel="preconnect" href="https://d1io3yog0oux5.cloudfront.net">
         <link rel="preconnect" href="https://qmod.quotemedia.com">
         
-                        <link href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/css/ir.stockpr.css" rel="stylesheet" type="text/css" media="screen" />
-                <link rel="stylesheet" href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/css/style.css">
+                        <link href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/css/ir.stockpr.css" rel="stylesheet" type="text/css" media="screen" />
+                <link rel="stylesheet" href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/css/style.css">
                         
-                <link rel="shortcut icon" href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="180x180" href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/favicons/apple-touch-icon.png">
-        <link rel="icon" type="image/png" href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/favicons/favicon-32x32.png" sizes="32x32">
-        <link rel="icon" type="image/png" href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/favicons/favicon-16x16.png" sizes="16x16">
-        <link rel="manifest" href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/favicons/manifest.json">
-        <link rel="mask-icon" href="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/favicons/safari-pinned-tab.svg">
+                <link rel="shortcut icon" href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/images/favicons/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/images/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/images/favicons/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/images/favicons/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/images/favicons/manifest.json">
+        <link rel="mask-icon" href="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/images/favicons/safari-pinned-tab.svg">
         <meta name="theme-color" content="#ffffff">  
     
                 
@@ -116,7 +116,7 @@
             <div class="d-flex justify-content-between">
                 <div class="logo">
                     <a href="/">
-                        <img src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/867/8386/image.svg"
+                        <img src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/867/8386/image.svg"
                             width="110"
                             height="26"
                             alt="Advanced Micro Devices, Inc. IR Overview">
@@ -279,7 +279,7 @@
 </nav>
 
             <div class="eq-container">
-                <header class="page-banner overlay dark" style="background: url(https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/930/7847/image_resized.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;background-color: #333;">
+                <header class="page-banner overlay dark" style="background: url(https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/930/7847/image_resized.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;background-color: #333;">
     	<div class="container">
 	    <div class="row justify-content-start text-left">
 	        <div class="col-lg-10">
@@ -443,31 +443,14 @@
     </thead>
     <tbody>
                                     <tr>
-                  <td class="spr-sec-date">08/17/26</td>
-                  <td class="spr-sec-form">
-                    144   
-                  </td>
-                  <td class="spr-sec-desc">
-                    <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001950047-26-008286/primary_doc.html"
-                        aria-label="Form 144: Report of proposed sale of securities published 08/17/26"
-                        class="doc-title"
-                        target="_blank" rel="noopener"
-                    >Form 144: Report of proposed sale of securities</a>
-                  </td>
-                                    <td class="spr-sec-view-docs">
-                                      </td>
-                  <td class="spr-sec-pages">2</td>
-                </tr>
-                            <tr>
-                  <td class="spr-sec-date">08/17/26</td>
+                  <td class="spr-sec-date">08/20/26</td>
                   <td class="spr-sec-form">
                     4   
                   </td>
                   <td class="spr-sec-desc">
                     <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000143/wk-form4_1786998173.html"
-                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/17/26"
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000172/wk-form4_1787258149.html"
+                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/20/26"
                         class="doc-title"
                         target="_blank" rel="noopener"
                     >Form 4: Statement of changes in beneficial ownership of securities</a>
@@ -477,149 +460,160 @@
                   <td class="spr-sec-pages">1</td>
                 </tr>
                             <tr>
-                  <td class="spr-sec-date">08/17/26</td>
+                  <td class="spr-sec-date">08/20/26</td>
+                  <td class="spr-sec-form">
+                    3   
+                  </td>
+                  <td class="spr-sec-desc">
+                    <a
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000169/wk-form3_1787257796.html"
+                        aria-label="Form 3: Initial statement of beneficial ownership of securities published 08/20/26"
+                        class="doc-title"
+                        target="_blank" rel="noopener"
+                    >Form 3: Initial statement of beneficial ownership of securities</a>
+                  </td>
+                                    <td class="spr-sec-view-docs">
+                                      </td>
+                  <td class="spr-sec-pages">2</td>
+                </tr>
+                            <tr>
+                  <td class="spr-sec-date">08/20/26</td>
+                  <td class="spr-sec-form">
+                    4   
+                  </td>
+                  <td class="spr-sec-desc">
+                    <a
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000167/wk-form4_1787257549.html"
+                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/20/26"
+                        class="doc-title"
+                        target="_blank" rel="noopener"
+                    >Form 4: Statement of changes in beneficial ownership of securities</a>
+                  </td>
+                                    <td class="spr-sec-view-docs">
+                                      </td>
+                  <td class="spr-sec-pages">2</td>
+                </tr>
+                            <tr>
+                  <td class="spr-sec-date">08/20/26</td>
+                  <td class="spr-sec-form">
+                    4   
+                  </td>
+                  <td class="spr-sec-desc">
+                    <a
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000165/wk-form4_1787257137.html"
+                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/20/26"
+                        class="doc-title"
+                        target="_blank" rel="noopener"
+                    >Form 4: Statement of changes in beneficial ownership of securities</a>
+                  </td>
+                                    <td class="spr-sec-view-docs">
+                                      </td>
+                  <td class="spr-sec-pages">1</td>
+                </tr>
+                            <tr>
+                  <td class="spr-sec-date">08/20/26</td>
+                  <td class="spr-sec-form">
+                    144   
+                  </td>
+                  <td class="spr-sec-desc">
+                    <a
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0001950047-26-008444/primary_doc.html"
+                        aria-label="Form 144: Report of proposed sale of securities published 08/20/26"
+                        class="doc-title"
+                        target="_blank" rel="noopener"
+                    >Form 144: Report of proposed sale of securities</a>
+                  </td>
+                                    <td class="spr-sec-view-docs">
+                                      </td>
+                  <td class="spr-sec-pages">2</td>
+                </tr>
+                            <tr>
+                  <td class="spr-sec-date">08/19/26</td>
                   <td class="spr-sec-form">
                     8-K   
                   </td>
                   <td class="spr-sec-desc">
                     <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-354029/d142696d8k.htm"
-                        aria-label="Form 8-K: Current report published 08/17/26"
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000163/amd-20260817.htm"
+                        aria-label="Form 8-K: Current report published 08/19/26"
                         class="doc-title"
                         target="_blank" rel="noopener"
                     >Form 8-K: Current report</a>
                   </td>
                                     <td class="spr-sec-view-docs">
-                                            <a href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-354029/0001193125-26-354029-xbrl.zip" title="Opens in a new window" aria-label="Download Raw XBRL Files published on 08/17/26" target="_blank" rel="noreferrer">
-                            <img src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/icon-XBRL.svg" alt="" />
+                                            <a href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000163/0000002488-26-000163-xbrl.zip" title="Opens in a new window" aria-label="Download Raw XBRL Files published on 08/19/26" target="_blank" rel="noreferrer">
+                            <img src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/images/icon-XBRL.svg" alt="" />
                         </a>
                                       </td>
-                  <td class="spr-sec-pages">107</td>
+                  <td class="spr-sec-pages">5</td>
                 </tr>
                             <tr>
-                  <td class="spr-sec-date">08/14/26</td>
-                  <td class="spr-sec-form">
-                    424B5   
-                  </td>
-                  <td class="spr-sec-desc">
-                    <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-352628/d173126d424b5.htm"
-                        aria-label="Form 424B5: Prospectus [Rule 424(b)(5)] published 08/14/26"
-                        class="doc-title"
-                        target="_blank" rel="noopener"
-                    >Form 424B5: Prospectus [Rule 424(b)(5)]</a>
-                  </td>
-                                    <td class="spr-sec-view-docs">
-                                            <a href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-352628/0001193125-26-352628-xbrl.zip" title="Opens in a new window" aria-label="Download Raw XBRL Files published on 08/14/26" target="_blank" rel="noreferrer">
-                            <img src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/icon-XBRL.svg" alt="" />
-                        </a>
-                                      </td>
-                  <td class="spr-sec-pages">76</td>
-                </tr>
-                            <tr>
-                  <td class="spr-sec-date">08/14/26</td>
-                  <td class="spr-sec-form">
-                    13F-HR   
-                  </td>
-                  <td class="spr-sec-desc">
-                    <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-352454/primary_doc.html"
-                        aria-label="Form 13F-HR: Quarterly report filed by institutional managers, Holdings published 08/14/26"
-                        class="doc-title"
-                        target="_blank" rel="noopener"
-                    >Form 13F-HR: Quarterly report filed by institutional managers, Holdings</a>
-                  </td>
-                                    <td class="spr-sec-view-docs">
-                                      </td>
-                  <td class="spr-sec-pages">3</td>
-                </tr>
-                            <tr>
-                  <td class="spr-sec-date">08/14/26</td>
-                  <td class="spr-sec-form">
-                    144   
-                  </td>
-                  <td class="spr-sec-desc">
-                    <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001950047-26-008142/primary_doc.html"
-                        aria-label="Form 144: Report of proposed sale of securities published 08/14/26"
-                        class="doc-title"
-                        target="_blank" rel="noopener"
-                    >Form 144: Report of proposed sale of securities</a>
-                  </td>
-                                    <td class="spr-sec-view-docs">
-                                      </td>
-                  <td class="spr-sec-pages">2</td>
-                </tr>
-                            <tr>
-                  <td class="spr-sec-date">08/13/26</td>
-                  <td class="spr-sec-form">
-                    FWP   
-                  </td>
-                  <td class="spr-sec-desc">
-                    <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-349669/d323988dfwp.htm"
-                        aria-label="Form FWP: Filing under Securities Act Rules 163/433 of free writing prospectuses published 08/13/26"
-                        class="doc-title"
-                        target="_blank" rel="noopener"
-                    >Form FWP: Filing under Securities Act Rules 163/433 of free writing prospectuses</a>
-                  </td>
-                                    <td class="spr-sec-view-docs">
-                                      </td>
-                  <td class="spr-sec-pages">7</td>
-                </tr>
-                            <tr>
-                  <td class="spr-sec-date">08/13/26</td>
+                  <td class="spr-sec-date">08/18/26</td>
                   <td class="spr-sec-form">
                     4   
                   </td>
                   <td class="spr-sec-desc">
                     <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000141/wk-form4_1786651900.html"
-                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/13/26"
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000161/wk-form4_1787086197.html"
+                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/18/26"
                         class="doc-title"
                         target="_blank" rel="noopener"
                     >Form 4: Statement of changes in beneficial ownership of securities</a>
                   </td>
                                     <td class="spr-sec-view-docs">
                                       </td>
-                  <td class="spr-sec-pages">1</td>
+                  <td class="spr-sec-pages">2</td>
                 </tr>
                             <tr>
-                  <td class="spr-sec-date">08/13/26</td>
+                  <td class="spr-sec-date">08/18/26</td>
                   <td class="spr-sec-form">
-                    424B5   
+                    4   
                   </td>
                   <td class="spr-sec-desc">
                     <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-348029/d173126d424b5.htm"
-                        aria-label="Form 424B5: Prospectus [Rule 424(b)(5)] published 08/13/26"
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000159/wk-form4_1787085960.html"
+                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/18/26"
                         class="doc-title"
                         target="_blank" rel="noopener"
-                    >Form 424B5: Prospectus [Rule 424(b)(5)]</a>
+                    >Form 4: Statement of changes in beneficial ownership of securities</a>
                   </td>
                                     <td class="spr-sec-view-docs">
                                       </td>
-                  <td class="spr-sec-pages">73</td>
+                  <td class="spr-sec-pages">2</td>
                 </tr>
                             <tr>
-                  <td class="spr-sec-date">08/13/26</td>
+                  <td class="spr-sec-date">08/18/26</td>
                   <td class="spr-sec-form">
-                    S-3ASR   
+                    4   
                   </td>
                   <td class="spr-sec-desc">
                     <a
-                        href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-348013/d97381ds3asr.htm"
-                        aria-label="Form S-3ASR: Automatic shelf registration statement of securities of well-known seasoned issuers published 08/13/26"
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000157/wk-form4_1787085741.html"
+                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/18/26"
                         class="doc-title"
                         target="_blank" rel="noopener"
-                    >Form S-3ASR: Automatic shelf registration statement of securities of well-known seasoned issuers</a>
+                    >Form 4: Statement of changes in beneficial ownership of securities</a>
                   </td>
                                     <td class="spr-sec-view-docs">
-                                            <a href="https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-348013/0001193125-26-348013-xbrl.zip" title="Opens in a new window" aria-label="Download Raw XBRL Files published on 08/13/26" target="_blank" rel="noreferrer">
-                            <img src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/images/icon-XBRL.svg" alt="" />
-                        </a>
                                       </td>
-                  <td class="spr-sec-pages">35</td>
+                  <td class="spr-sec-pages">2</td>
+                </tr>
+                            <tr>
+                  <td class="spr-sec-date">08/18/26</td>
+                  <td class="spr-sec-form">
+                    4   
+                  </td>
+                  <td class="spr-sec-desc">
+                    <a
+                        href="https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000155/wk-form4_1787085578.html"
+                        aria-label="Form 4: Statement of changes in beneficial ownership of securities published 08/18/26"
+                        class="doc-title"
+                        target="_blank" rel="noopener"
+                    >Form 4: Statement of changes in beneficial ownership of securities</a>
+                  </td>
+                                    <td class="spr-sec-view-docs">
+                                      </td>
+                  <td class="spr-sec-pages">2</td>
                 </tr>
                         </tbody>
 </table>
@@ -685,11 +679,11 @@
                                     ><span class="sr-only">Page </span>10</a>
             </li>
                             
-                                <li class="page-item disabled"><span class="page-link" role="img" aria-label="Ellipsis placeholder for pages 11 through 329" >&hellip;</span></li>
+                                <li class="page-item disabled"><span class="page-link" role="img" aria-label="Ellipsis placeholder for pages 11 through 331" >&hellip;</span></li>
                         <li class="page-item last-interactive-item">
                 <a class="page-link"
-                    href="https://ir.amd.com/financial-information/sec-filings?page=330"
-                ><span class="sr-only">Page </span>330</a>
+                    href="https://ir.amd.com/financial-information/sec-filings?page=332"
+                ><span class="sr-only">Page </span>332</a>
             </li>
                 
                     <li class="page-item page-item--next">
@@ -1361,6 +1355,10 @@
                                             >Page 329</option>
                                     <option value="https://ir.amd.com/financial-information/sec-filings?page=330" 
                                             >Page 330</option>
+                                    <option value="https://ir.amd.com/financial-information/sec-filings?page=331" 
+                                            >Page 331</option>
+                                    <option value="https://ir.amd.com/financial-information/sec-filings?page=332" 
+                                            >Page 332</option>
                             </select>
             </div>
 </nav>
@@ -1376,7 +1374,7 @@
     	        <div class="col-md-6">
     	            <div class="logo-wrapper">
             	        <a href="/">
-                            <img src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/867/8386/image.svg"
+                            <img src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/867/8386/image.svg"
                                 class="footer-logo"
                                 width="182"
                                 height="44"
@@ -1392,13 +1390,13 @@
                                                     <li
                                                         >
                                 <a href="https://www.linkedin.com/company/amd/" target="_blank" rel="noopener" class="">
-                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/836/9074/icon/icon-linkedin.svg" alt="Visit us on LinkedIn" />
+                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/836/9074/icon/icon-linkedin.svg" alt="Visit us on LinkedIn" />
                                                                 </a>
                                                 	    		                            </li>
                                                     <li
                             class="dropdown--menu"                            >
                                 <a href="https://x.com/amd" target="_blank" rel="noopener" class="">
-                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/836/9076/icon/X_logo_2023_original.svg" alt="Visit us on X" />
+                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/836/9076/icon/X_logo_2023_original.svg" alt="Visit us on X" />
                                                                 </a>
                                                 				<ul class="dropdown-menu dropdown-menu-end">
                 					<li>
@@ -1434,13 +1432,13 @@
                                                     <li
                                                         >
                                 <a href="https://www.instagram.com/amd" target="_blank" rel="noopener" class="">
-                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/836/9073/icon/icon-instagram.svg" alt="Visit us on Instagram" />
+                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/836/9073/icon/icon-instagram.svg" alt="Visit us on Instagram" />
                                                                 </a>
                                                 	    		                            </li>
                                                     <li
                             class="dropdown--menu"                            >
                                 <a href="https://www.youtube.com/user/amd?reload=9&amp;sub_confirmation=1" target="_blank" rel="noopener" class="">
-                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/836/9077/icon/icon-youtube.svg" alt="Visit us on YouTube" />
+                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/836/9077/icon/icon-youtube.svg" alt="Visit us on YouTube" />
                                                                 </a>
                                                 	    		                    			<ul class="dropdown-menu dropdown-menu-end">
                                     <li>
@@ -1464,13 +1462,13 @@
                                                     <li
                                                         >
                                 <a href="https://www.facebook.com/amd" target="_blank" rel="noopener" class="">
-                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/836/9072/icon/icon-facebook.svg" alt="Visit us on Facebook" />
+                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/836/9072/icon/icon-facebook.svg" alt="Visit us on Facebook" />
                                                                 </a>
                                                 	    		                            </li>
                                                     <li
                                                         >
                                 <a href="https://www.amd.com/en/corporate/subscriptions" target="_blank" rel="noopener" class="">
-                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/db/836/9078/icon/footer-email.svg" alt="Visit us on Subscriptions" />
+                                                                    <img class="icon-img-link" src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/db/836/9078/icon/footer-email.svg" alt="Visit us on Subscriptions" />
                                                                 </a>
                                                 	    		                            </li>
                                                 </ul>
@@ -1503,7 +1501,7 @@
 </footer>
 <script id="companyVars" type="application/json">
 {
-    "asset_url": "https:\/\/d1io3yog0oux5.cloudfront.net\/_81de2a840266a9a5d8ef71574b1495ea\/amd",
+    "asset_url": "https:\/\/d1io3yog0oux5.cloudfront.net\/_56adbd18d135b2f851093f22c2cfc3be\/amd",
     "website_base_url": "https:\/\/ir.amd.com",
     "ir_base_url": "",
     "hCaptchaSiteKey": "778a5748-d323-4b73-a06c-9625642de8bc",
@@ -1513,7 +1511,7 @@
 </script>
 
 
-<script src="https://d1io3yog0oux5.cloudfront.net/_81de2a840266a9a5d8ef71574b1495ea/amd/files/theme/js/_js/all.js"></script>
+<script src="https://d1io3yog0oux5.cloudfront.net/_56adbd18d135b2f851093f22c2cfc3be/amd/files/theme/js/_js/all.js"></script>
 
 <script type="text/javascript" async="" src="https://download.amd.com/js/analytics/analyticsinit.js"></script>
 
